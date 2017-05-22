@@ -1,0 +1,27 @@
+---
+intro: |
+  There are standard questions that low-ball "reporters" or interviewers often try to
+  ambush folk with.
+
+  There are also standard answers which are best given to such questions.
+
+  This is intended as a compendium of such low-ball questions and (possibly :) appropriate
+  answers.
+
+
+question:
+  Q: "Are you a sexual predator?"
+
+  example:
+    url: [ "http://theduran.com/john-pilger-speaks-out-on-julian-assange-and-sweden/", "http://johnpilger.com/articles/getting-julian-assange-the-untold-story" ]
+    note: This is the example which inspired this compendium.
+
+  A: "You mean including your mother?"
+  A: "When did you stop beating your wife?"
+
+
+question:
+  Q: 
+
+
+# vim: tw=90
