@@ -1,8 +1,8 @@
-# Petition to President Trump to Declare Martial Law
+# Petition to President Donald Trump to Declare Martial Law
 
-__Petition of United States of America Elector(s) and others,__
-__to President Donald Trump to Declare Martial Law,__
-__and to Arrest and Charge Traitors, and to Command the Military__
+__Petition of United States of America Elector(s) and others,__\
+__to President Donald Trump to Declare Martial Law,__\
+__and to Arrest and Charge Traitors, and to Command the Military__\
 __to Conduct a Re-Election in Certain States__
 
 __To the Honourable The President of the United States of America:__
@@ -44,7 +44,7 @@ Pursuant to the proven and alleged widespread fraud in the election, occasioned 
 
 __And further__ pursuant to the evident corruption of certain politicians with apparent conflicts of interest with China and other foreign powers;
 
-it is clear to me that an appropriate way forward in order to bring forth justice and to bypass certain of the corruption and sabotage evidently happening in the United States of America in the courts and legislative bodies, that you, Honourable President Trump, __declare Martial Law__ with the purpose and intention of arresting and charging those responsible for the aforesaid illegal acts, corruptions and treason;
+it is clear to me that an appropriate way forward in order to bring forth justice and to bypass certain of the corruption and sabotage evidently happening in the United States of America in the courts and legislative bodies, that you, Honourable President Donald Trump, __declare Martial Law__ with the purpose and intention of arresting and charging those responsible for the aforesaid illegal acts, corruptions and treason;
 
 AND for the purpose of __conducting a free and fair election__ in certain states under the supervision of our military.
 
